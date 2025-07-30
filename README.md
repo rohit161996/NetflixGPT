@@ -67,7 +67,7 @@
 
 ### 4. GPT Search Page (Mobile)
 
-![GPT Search Page – Mobile Version](./images/GPTSearch_Mobile-Version.png)
+![GPT Search Page – Mobile Version](./images/GPTSearch_Mobile_Version.png)
 
 ---
 
